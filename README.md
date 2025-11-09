@@ -1,0 +1,1 @@
+Open in Android Studio and Build > Build APK(s). No INTERNET permission. MinSDK 24.
